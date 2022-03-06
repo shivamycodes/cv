@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+}
+.top, .middle, .bottom{
+    height: 200px;
+       width: 200px;
+       position: absolute;
+        /* position - static, relative, absolute, 
+                      fixed, sticky 
+        */
+     
+   }
+   .top{
+    background-color: red;
+    top: 400px;
+    left: 400px;
+    
+   }
+   .middle{
+       background-color: blue;
+       top: 200px;
+       left: 200px;
+   }
+   h1{
+       margin: 0;
+   }
+
+.bottom{
+    background-color: YELLOW;
+    position: fixed;
+  
+}
+
+/* .top{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    position: relative;
+    left: 50%;
+    top: 50%;
+} */

@@ -1,0 +1,142 @@
+a{
+    text-decoration: none;
+}
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+.bottom-container{
+    padding-top: 30px;
+    height: 100px;
+    background-color: #66BFBF;
+}
+.bottom-cloud{
+    left: 25%; 
+ }
+
+
+
+ .bottom-container a{
+     
+     margin: 25px 25px;
+ }
+ .btn{
+     background-color: #5fb3b3;
+     padding: 7px 10px;
+     text-decoration: none;
+     text-align: center;
+     border-radius: 5px;
+     color: #EAF6F6;
+ }
+ .cloud{
+    position: absolute;
+}
+.contact-me{
+    padding: 50px;
+    line-height: 2;
+}
+.contact-me p{
+    width: 50%;
+    margin: 25px auto;
+}
+.contact-me h2{
+    margin: auto;
+}
+/* .code-skill-discription1{
+    clear: left;
+}
+.code-skill-discription2{
+    clear: right;
+} */
+.footer-copyright{
+    color: #EAF6F6;
+}
+h1{
+    line-height: 2;
+    color: #66BFBF;
+    margin: 50px, auto, 0, auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.62rem  /* 100% = 1em = 16px  */
+}
+h2, h3{
+    font-family: 'Montserrat', sans-serif;
+}
+h3, a{
+    color: #11999E;
+}
+h2{
+    font-size: 2.5rem;
+    font-weight: 600;
+    color: #66BFBF;
+}
+
+hr{
+    margin-top: 50px;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 7px;
+    width: 5%;
+    border-color: #c4c9c9;
+}
+
+.my-img{
+   width: 15%;
+   margin: 100px auto 0;
+}
+.my-bio{
+    margin: 15px auto;
+    width: 50%;
+}
+.design-img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.code-img{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.links{
+    margin-bottom: 20px;
+}
+
+.main-heading{
+    margin: 20px, auto;
+}
+.pro{
+    text-decoration: underline;
+}
+p{
+    color: #40514E;
+}
+.skill-row{
+    text-align: left;
+    width: 50%;
+    margin: 100px auto 100px;
+}
+.skill-row p, h3{
+    line-height: 2;
+    /* margin-left: 200px; */
+}
+.top-cloud{
+   top: 50px;
+   right: 25%;
+}
+
+
+
+
+
+
+.top-container{
+    position: relative;
+    background-color: #E4f9f5;
+    padding-top: 100px;
+}
+
+
+
+
